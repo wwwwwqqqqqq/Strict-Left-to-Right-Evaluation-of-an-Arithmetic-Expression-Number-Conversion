@@ -1,10 +1,10 @@
 //
 //  main.c
-//  Assignment1
+//  Assignment
 //
-//  Created by 秦玮蔚 on 2019/3/20.
+//  Created by Weiwei Qin on 2019/3/20.
 //  Copyright © 2019 Qin Weiwei. All rights reserved.
-//  CSI333 Spring2019 Project1 ZR1702 2017215126 Qin Weiwei
+//  CSI333 Spring2019 Project1
 
     
 #include <stdio.h>
